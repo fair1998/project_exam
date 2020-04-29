@@ -1,0 +1,46 @@
+
+.mycircle {
+    height: auto;
+    width: auto;
+    border: 3px solid #fff;
+    border-radius: 10%;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+#myshowImage {
+    display: none;
+}
+
+#myshowImage[src] {
+    display: block;
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+}
+
+.showimg {
+    display: none;
+}
+
+.showimg[src] {
+    display: block;
+    margin-top: 10px;
+}
+
+.myplr35{
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.myau-task__title {
+    padding: 27px 30px;
+    /* padding-left: 40px; */
+    padding-bottom: 22px;
+    border-bottom: 1px solid #f2f2f2;
+    font-size: 14px;
+}
+
+.mytable_c {
+    background-color: #e9ecef;
+}
+
